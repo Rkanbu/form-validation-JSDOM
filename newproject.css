@@ -1,5 +1,5 @@
 .form{
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/images2/13.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("/13.jpg");
     background-size: cover;
     
     height: 900px;
@@ -33,10 +33,6 @@
     box-shadow: 0px 0px 50px gold;
     color: black;
 
-}
-.date{
-    
-    width: 210px;
 }
 input{
     text-align: center;
